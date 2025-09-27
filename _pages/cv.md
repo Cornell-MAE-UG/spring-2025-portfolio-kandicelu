@@ -43,7 +43,7 @@ Aspiring mechanical engineering student passionate about aerospace technologies,
   - Assess structural performance by conducting load testing & collaborating with teammates to swiftly troubleshoot issues, resulting in significantly improved deflection of the bridge under expected loading
   - Create shop drawings and specify tolerances for bridge components, and follow drawings to personally fabricate over 200 bridge components
  
-    - **[ZT Group] - Undergraduate Researcher**  
+- **[ZT Group] - Undergraduate Researcher**  
   [May, 2025] - [Present]  
   - Developed and optimized procedures for fabricating potential polymer-based thermal interface material samples
   - Characterized thermal properties of polymer samples to inform experimental changes to subsequent samples
@@ -72,12 +72,4 @@ Aspiring mechanical engineering student passionate about aerospace technologies,
   [June, 2025] - [Aug, 2025]  
   - Researched the viability of and assisted in the implementation of transitions to new report creation and price management systems
   - Assisted chief officers in creating and organizing various strategic documents, databases, and reports
-
----
-
-#### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
-
----
 
