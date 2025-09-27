@@ -5,7 +5,8 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/Lu_Kandice_Resume.pdf" | relative_url }})
+
 
 
 **Email:** [kl744@cornell.edu](mailto:kl744@cornell.edu) | | | **Phone:** +413-834-8510
