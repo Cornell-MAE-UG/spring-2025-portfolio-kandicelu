@@ -30,8 +30,8 @@ Aspiring mechanical engineering student passionate about aerospace technologies,
 #### Skills
 - **Technical Skills:** Computer-Aided Design, Finite Element Analysis, Structural Analysis, Manual and CNC Machining, 3D Printing, DFMA, GD&T 
 - **Software:** Autodesk Fusion 360, SolidWorks, ANSYS, STAAD.Pro, LabVIEW  
-- **Programming:** MATLAB, Python, C/C++  
-- 
+- **Programming Languages:** MATLAB, Python, C/C++  
+ 
 
 ---
 #### Relevant Experience
