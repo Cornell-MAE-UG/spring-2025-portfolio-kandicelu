@@ -49,7 +49,6 @@ Aspiring mechanical engineering student passionate about aerospace technologies,
   - Developed and optimized procedures for fabricating potential polymer-based thermal interface material samples
   - Characterized thermal properties of polymer samples to inform experimental changes to subsequent samples
  
-  - 
 #### Coursework Projects
 - **[Cube Collecting Robot]**:  
   *[Designed and programmed an autonomous cube-collecting robot within given size and budget constraints]*  
