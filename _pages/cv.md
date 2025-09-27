@@ -34,7 +34,21 @@ Aspiring mechanical engineering student passionate about aerospace technologies,
 - 
 
 ---
-
+#### Relevant Experience
+- **[Cornell Steel Bridge Project Team] - Full Team Lead, Fabrication Lead**  
+  [Sep, 2023] - [Present]  
+  - Lead a team of 30 students to design and fabricate a 20 foot steel bridge to withstand a 2500lb load with minimal deflection in an annual competition
+  - Optimize structural efficiency by analyzing varied geometries and section properties, improving projected costs from the initial design by 15%
+  - Designed member connections in Fusion 360 assessed connection safety factors through finite element analysis to ensure structural integrity under expected loads
+  - Assess structural performance by conducting load testing & collaborating with teammates to swiftly troubleshoot issues, resulting in significantly improved deflection of the bridge under expected loading
+  - Create shop drawings and specify tolerances for bridge components, and follow drawings to personally fabricate over 200 bridge components
+ 
+    - **[ZT Group] - Undergraduate Researcher**  
+  [May, 2025] - [Present]  
+  - Developed and optimized procedures for fabricating potential polymer-based thermal interface material samples
+  - Characterized thermal properties of polymer samples to inform experimental changes to subsequent samples
+ 
+  - 
 #### Coursework Projects
 - **[Cube Collecting Robot]**:  
   *[Designed and programmed an autonomous cube-collecting robot within given size and budget constraints]*  
@@ -67,11 +81,3 @@ Aspiring mechanical engineering student passionate about aerospace technologies,
 
 ---
 
-#### Relevant Experience
-- **[Cornell Steel Bridge Project Team] - Full Team Lead, Fabrication Lead**  
-  [Sep, 2023] - [Present]  
-  - Lead a team of 30 students to design and fabricate a 20 foot steel bridge to withstand a 2500lb load with minimal deflection in an annual competition
-  - Optimize structural efficiency by analyzing varied geometries and section properties, improving projected costs from the initial design by 15%
-  - Designed member connections in Fusion 360 assessed connection safety factors through finite element analysis to ensure structural integrity under expected loads
-  - Assess structural performance by conducting load testing & collaborating with teammates to swiftly troubleshoot issues, resulting in significantly improved deflection of the bridge under expected loading
-  - Create shop drawings and specify tolerances for bridge components, and follow drawings to personally fabricate over 200 bridge components
