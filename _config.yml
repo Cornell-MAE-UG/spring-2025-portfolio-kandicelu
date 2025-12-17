@@ -13,8 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Kandice Lu
 description              : Kandice Lu - Projects and CV 
-baseurl                  : "" # Set this to "portfolio-<your-github-username>" 
-url                      : "http://127.0.0.1:4000" #"https://cornell-mae-ug.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "spring-2025-portfolio-kandicelu" # Set this to "portfolio-<your-github-username>" 
+url                      : "https://cornell-mae-ug.github.io/" #"https://cornell-mae-ug.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
 # Theme and Style
 theme: jekyll-theme-minimal
