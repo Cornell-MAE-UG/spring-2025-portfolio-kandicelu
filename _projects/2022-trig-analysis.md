@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Analysis of Functions
+title: Engineering Ethics Boeing 737 Max Incident Analysis
 description: Class project with Graphs
 technologies: [MATLAB, python]
 image: /assets/images/function-graph.png
