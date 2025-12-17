@@ -22,4 +22,8 @@ This is how I solved the problem:
 
 Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
+![Theoretical power curves]({{ "/assets/images/theor.png" | relative_url }}){:style="width: 350px"}
+
+![Experimental power curves]({{ "/assets/images/expe.png" | relative_url }}){:style="width: 350px"}
+
 
