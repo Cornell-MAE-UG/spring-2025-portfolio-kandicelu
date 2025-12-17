@@ -14,8 +14,6 @@ Power curves for our turbine were obtained by testing in a wind tunnel and takin
 
 ![Theoretical power curves]({{ "/assets/images/theor.png" | relative_url }}){:style="width: 350px"}
 
-
-
 ![Experimental power curves]({{ "/assets/images/expe.png" | relative_url }}){:style="width: 350px"}
 
 I directly worked on much of the design, modelling and analysis of our blades, and also assisted in experimental data collection and analysis.
