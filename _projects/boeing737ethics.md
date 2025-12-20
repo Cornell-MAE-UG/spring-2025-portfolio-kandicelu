@@ -1,29 +1,17 @@
 ---
 layout: project
 title: Engineering Ethics Boeing 737 Max Incident Analysis
-description: Class project with Graphs
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+description: 
+technologies: 
+image: /assets/images/737.jpg
 ---
+Boeing 737 MAX Incident Analysis
 
-
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
-![Theoretical power curves]({{ "/assets/images/theor.png" | relative_url }}){:style="width: 350px"}
-
-![Experimental power curves]({{ "/assets/images/expe.png" | relative_url }}){:style="width: 350px"}
+The Boeing 737 MAX incidents arose as a result of failures in engineering design, regulatory oversight and organizational company culture. The 737 had a Maneuvering Characteristics Augmentation System (MCAS), which was intended to assist in stabilizing the plane during flight. However, due to its design relying on a single angle of attack sensor, two fatal crashes resulted after faulty sensors led the system to repeatedly force the airplanes to nose down. This single point of failure, with no failsafes violates long-standing industry principles of redundancy and highlights deeper issues with the development and certification of the airplane.
+The development of the 737 MAX was driven by the recent release of a competitive, fuel efficient aircraft by Airbus. In order to remain competitive, Boeing was rushed to develop their own fuel efficient aircraft, leading to pressures to develop and certify systems quickly. As part of this, the MCAS was intentionally portrayed as a minor modification to an existing system. Very little mention of it was made to the FAA during technical meetings, and Boeing even requested it’s removed from flight manuals. By minimizing the significance of changes to the system, Boeing was able to market the plane as needing no additional pilot training, making it more appealing and less costly for airlines. However, by removing all mention of the system, pilots and flight crew were unaware of the changes, and more crucially, unaware of the dangers a single faulty AOA sensor could pose, whereas knowledge of this could have prevented the two fatal flights from occurring in the first place.
+This issue was also due to regulatory failures. Due to the infeasibility of having the FAA certify every part of an aircraft, approximately 87% of the 737 MAX’s certification was delegated to Boeing itself. While not strictly an issue, in-house certification is likely to be influenced by company pressures in ways independent certification would not be, potentially leading to improperly certified systems. Internal concerns were raised about the risks of sensor failure but these were either dismissed or not fully addressed. And as the FAA lacked technical insight into MCAS and received limited information about it, they did not treat it as a high-risk system, and trusted Boeing to certify it. This delegation structure created blurred responsibility, allowing engineers and regulators to assume others were in charge of ensuring regulations were met. Additionally, unclear regulations likely led engineers to assume that meeting minimum requirements was sufficient when ethical obligations required more of them.
+From an engineering ethics perspective, the MCAS incident illustrates a clear conflict among the ASME Code of Ethics canons, especially between canon 1, which requires engineers to hold public safety paramount, directly conflicted with canon 4, which emphasizes faithful service to employers. Boeing engineers were under organizational pressure to certify MCAS quickly and overlook its risks, resulting in dismissed concerns, withholding of critical information, and certification of a system with inadequate safety features. However, regardless of the pressures, engineers should hold public safety as their priority, above any company needs.
+These ethical issues need to be addressed at multiple levels. On an individual level, implementing more thorough ethical trainings can help engineers address these kinds of conflicts when they occur. On an organizational level, changes in company structures are needed to prioritize public safety over profits, increase communication regarding concerns, and encourage and protect whistleblowers. Lastly systemic changes can be made as well, such as in reducing the amount of certification delegated to companies and stronger and clearer regulatory requirements. Having these changes in place could have very likely prevented the 737 MAX incident from occurring, by ensuring sufficient safety practices were followed and preventing company interests from affecting certification processes.
+In conclusion, the 737 MAX disasters demonstrate that engineering failures are not due solely due to technical issues. These incidents are due to ethical and organizational failures arising from misplaced priorities and lax regulatory standards, and showcase current issues present in the engineering industry that need to be addressed in order to ensure public safety is never compromised.
 
 
